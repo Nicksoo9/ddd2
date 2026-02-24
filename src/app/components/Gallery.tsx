@@ -46,26 +46,26 @@ export function Gallery() {
     },
     {
       image: whatsappImage1,
-      title: "Customer Shared Photo 1",
-      description: "Image uploaded via WhatsApp showcasing our work",
+      title: "Bags Packaged for Moving",
+      description: "High-quality packing of bags and belongings for a safe move by our satisfied customer in Nairobi",
       alt: "WhatsApp customer image 1"
     },
     {
       image: whatsappImage2,
-      title: "Customer Shared Photo 2",
-      description: "Image uploaded via WhatsApp showcasing our work",
+      title: "Boxed Items Ready for Moving",
+      description: "Our team carefully boxes and labels all items for a safe and organized move in Nairobi",
       alt: "WhatsApp customer image 2"
     },
     {
       image: whatsappImage3,
-      title: "Customer Shared Photo 3",
-      description: "Image uploaded via WhatsApp showcasing our work",
+      title: "Bedroom Furniture Packed for Moving",
+      description: "High-quality photo of our customer's bedroom furniture being carefully packed and organized",
       alt: "WhatsApp customer image 3"
     },
     {
       image: whatsappImage4,
-      title: "Customer Shared Photo 4",
-      description: "Image uploaded via WhatsApp showcasing our work",
+      title: "Boxes Packed and Ready for Moving",
+      description: "Our team carefully packs and labels all boxes for a safe and organized move in Nairobi",
       alt: "WhatsApp customer image 4"
     },
     {
